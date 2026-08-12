@@ -1,10 +1,7 @@
+import Home from "./pages/Home";
+
 function App() {
-  return (
-    <main>
-      <h1>CodeScan</h1>
-      <p>Escanea productos de forma rápida y sencilla.</p>
-    </main>
-  );
+  return <Home />;
 }
 
 export default App;

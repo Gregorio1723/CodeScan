@@ -22,3 +22,7 @@ pnpm-debug.log*
 # Sistema operativo
 .DS_Store
 Thumbs.db
+
+# Backend
+backend/.env
+
